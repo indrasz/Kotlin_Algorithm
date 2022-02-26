@@ -15,12 +15,12 @@ fun main(){
     /*
        count total passenger
      */
-    var penumpang : Int = 0
-    penumpang += 5
-    penumpang += 7
-    penumpang += 8
-    penumpang += 9
-    println("Jumlah penumpang adalah $penumpang")
+    var passenger : Int = 0
+    passenger += 5
+    passenger += 7
+    passenger += 8
+    passenger += 9
+    println("Total Passenger is a $passenger")
 
     /*
         Arithmetic
