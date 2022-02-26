@@ -25,4 +25,18 @@ fun main(){
     //loop the char
     for (char in text) print("$char ")
 
+    println()
+
+    //quotation mark
+    println("My Name is \"Wahyu Indra\"")
+
+    /*
+     NOTED escaped type :
+     \t = add tab to text
+     \n = add new line to text
+     \` = add single quote char to text
+     \" = add double quote char to text
+     \" = add backlash char to text
+    */
+
 }
