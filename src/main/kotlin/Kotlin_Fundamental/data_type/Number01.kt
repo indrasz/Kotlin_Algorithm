@@ -39,4 +39,7 @@ fun main(){
      \" = add backlash char to text
     */
 
+    val unicode = "Unicode Example : \u00A9"
+    println(unicode)
+
 }
