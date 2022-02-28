@@ -1,4 +1,4 @@
-package fundamental.basic_syntax
+package fundamental.module01_basic_syntax
 
 //Java Programmer Style
 fun main(args: Array<String>) {

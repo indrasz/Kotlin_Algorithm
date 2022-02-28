@@ -1,4 +1,4 @@
-package fundamental.data_type
+package fundamental.module02_data_type
 
 fun main(){
     // NullPointerException(NPE) alias "The Billion Dollar Mistake"

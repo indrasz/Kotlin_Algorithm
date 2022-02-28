@@ -1,4 +1,4 @@
-package fundamental.functions
+package fundamental.module03_functions
 
 fun main(){
     val user = setUser1("Wahyu Indra", 19)

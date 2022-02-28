@@ -1,4 +1,4 @@
-package fundamental.arrays
+package fundamental.module05_arrays
 
 fun main(){
     //example simple array with library function arrayOf()

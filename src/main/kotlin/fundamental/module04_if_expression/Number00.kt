@@ -1,4 +1,4 @@
-package fundamental.if_expression
+package fundamental.module04_if_expression
 
 import java.util.Scanner
 
