@@ -1,4 +1,4 @@
-package Kotlin_Fundamental.data_type
+package fundamental.data_type
 
 fun main(){
     var character : Char = 'A'

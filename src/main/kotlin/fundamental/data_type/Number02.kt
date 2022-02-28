@@ -1,8 +1,10 @@
-package Kotlin_Fundamental.data_type
+package fundamental.data_type
 
 fun main(){
     //Int 32 Bit
     val intNumber = 100
+    print(Int.MAX_VALUE)  //output : 2147483647
+    print(Int.MIN_VALUE)  //output : -2147483648
 
     //Long 64 Bit
     val longNumber : Long = 100
@@ -23,6 +25,8 @@ fun main(){
     //Readable Number
     val readableNumber = 1000_000_000
 
+
+    // Example
     /*
        count total passenger
      */

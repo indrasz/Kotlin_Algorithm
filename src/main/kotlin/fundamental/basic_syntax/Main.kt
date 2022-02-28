@@ -1,4 +1,4 @@
-package Kotlin_Fundamental.basic_syntax
+package fundamental.basic_syntax
 
 //Java Programmer Style
 fun main(args: Array<String>) {

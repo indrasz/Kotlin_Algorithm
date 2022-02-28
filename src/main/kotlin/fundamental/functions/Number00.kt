@@ -1,4 +1,4 @@
-package Kotlin_Fundamental.functions
+package fundamental.functions
 
 fun main(){
     val user = setUser1("Wahyu Indra", 19)
