@@ -19,7 +19,7 @@ fun main(){
 
     //get first char
     val text = "Character"
-    val firstchar = text[0]
+    val firstchar = text[1]
     println("First Char is a $firstchar")
 
     //loop the char
@@ -36,7 +36,7 @@ fun main(){
      \n = add new line to text
      \` = add single quote char to text
      \" = add double quote char to text
-     \" = add backlash char to text
+     \' = add backlash char to text
     */
 
     val unicode = "Unicode Example : \u00A9"
